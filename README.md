@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hey 👋, I'm Ayush Pandey</h1>
-<h3 align="center">Aspiring Dev | Web Dev | C, C++ & JS | MCA & BCA@IPU</h3>
+<h3 align="center">Full Stack Dev | MERN | Java, C++ & JS | MCA & BCA@IPU</h3>
 <img align="right" width="300" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-pandey1&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pandey1" /> </p>
