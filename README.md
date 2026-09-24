@@ -1,29 +1,154 @@
-<!-- ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif) -->
 <h1 align="center">Hey 👋, I'm Ayush Pandey</h1>
-<h3 align="center">Full Stack Dev | MERN | Java, C++ & JS | MCA & BCA@IPU</h3>
-<img align="right" width="300" alt="coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-pandey1&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-pandey1" /> </p>
-
-- 🌱 I’m currently learning **Redis, PostgreSQL, gsap, Docker**
-
-- 📫 How to reach me **ayushpandey9350@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-pandey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-pandey1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush80555" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush80555" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ayushpandey9350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushpandey9350" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer</b> · Next.js · React · Node.js · MongoDB
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build full-stack applications, work on developer-focused products,<br/>
+  and I'm currently exploring AI-powered application development.
+</p>
 
-[![An image of @ayush80555's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush80555)](https://holopin.io/@ayush80555)
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-pandey1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayushpandey9350@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ayush-pandey1">
+    <img src="https://img.shields.io/github/followers/ayush-pandey1?style=flat&label=Followers" />
+  </a>
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-pandey1&show_icons=true&locale=en&layout=compact" alt="ayush-pandey1" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-pandey1&show_icons=true&locale=en" alt="ayush-pandey1" /></p>
+* 🎓 MCA & BCA, IPU
+* 💻 Full Stack Developer focused on the JavaScript ecosystem
+* 🧩 Building applications with **Next.js, React, Node.js, Express & MongoDB**
+* 🤖 Exploring **LLMs, Gemini API, LangChain and AI integration**
+* 🧠 Strengthening **DSA, DBMS, SQL, OOPs and system fundamentals**
+* ⚙️ Currently exploring **TypeScript, Redis, PostgreSQL, Docker, Kubernetes, Kafka & CI/CD**
+* 🚀 Interested in building scalable, practical products rather than just demos
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-pandey1&" alt="ayush-pandey1" /></p>
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+#### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
+</p>
+
+#### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,postman" />
+</p>
+
+#### AI / GenAI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <code>LLMs</code>
+  <code>Gemini API</code>
+  <code>LangChain</code>
+  <code>RAG</code>
+  <code>AI Agents</code>
+</p>
+
+---
+
+### 🚀 Featured Project
+
+<a href="https://karmsetu.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-pandey1&repo=Karmsetu&theme=github_dark&hide_border=true" />
+</a>
+
+### Karmsetu
+
+A freelancing platform designed around the Indian freelance ecosystem.
+
+**What I worked on:**
+
+* Full-stack architecture using **Next.js, React, Node.js & MongoDB**
+* Role-based authentication for **clients and freelancers**
+* Freelancer discovery and project/gig management
+* Guilds and communities for freelancers
+* Real-time communication using **Socket.IO**
+* Geolocation-based freelancer discovery using **Leaflet**
+* Milestone-based project payments
+* AI-powered features for project creation and freelancer applications
+* Personalized recommendations and market insights
+
+🔗 **Live:** [karmsetu.vercel.app](https://karmsetu.vercel.app/)
+
+---
+
+### 🧠 Currently Learning
+
+```text
+TypeScript
+    ↓
+Backend & Databases
+Redis · PostgreSQL
+    ↓
+Infrastructure
+Docker · Kubernetes · CI/CD
+    ↓
+Distributed Systems
+Kafka
+    ↓
+Generative AI
+LLMs · Gemini · LangChain · AI Agents
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush-pandey1&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-pandey1&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayush-pandey1&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+### 💻 Coding Profiles
+
+<p>
+  <a href="https://www.codechef.com/users/ayush80555">
+    <img src="https://img.shields.io/badge/CodeChef-ayush80555-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/@ayushpandey9350">
+    <img src="https://img.shields.io/badge/HackerRank-ayushpandey9350-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Shipping.</i>
+</p>
