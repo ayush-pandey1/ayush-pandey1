@@ -65,7 +65,7 @@
 #### Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,redis" />
 </p>
 
 <p align="center">
