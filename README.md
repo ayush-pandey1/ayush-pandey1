@@ -113,18 +113,7 @@ AI
 
 ---
 
-### 💻 Coding Profiles
 
-<p>
-  <a href="https://www.codechef.com/users/ayush80555">
-    <img src="https://img.shields.io/badge/CodeChef-ayush80555-5B4638?style=flat&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/@ayushpandey9350">
-    <img src="https://img.shields.io/badge/HackerRank-ayushpandey9350-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>Build. Learn. Improve.</i>
