@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Ayush Pandey</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Next.js · React · Node.js · MongoDB
+  <b>Full Stack Developer</b> · JavaScript · React · Next.js · Node.js
 </p>
 
 <p align="center">
-  I build full-stack applications, work on developer-focused products,<br/>
-  and I'm currently exploring AI-powered application development.
+  I build full-stack web applications and enjoy solving problems,<br/>
+  learning new technologies, and turning ideas into working products.
 </p>
 
 <p align="center">
@@ -27,11 +27,12 @@
 
 * 🎓 MCA & BCA, IPU
 * 💻 Full Stack Developer focused on the JavaScript ecosystem
-* 🧩 Building applications with **Next.js, React, Node.js, Express & MongoDB**
-* 🤖 Exploring **LLMs, Gemini API, LangChain and AI integration**
-* 🧠 Strengthening **DSA, DBMS, SQL, OOPs and system fundamentals**
-* ⚙️ Currently exploring **TypeScript, Redis, PostgreSQL, Docker, Kubernetes, Kafka & CI/CD**
-* 🚀 Interested in building scalable, practical products rather than just demos
+* ⚛️ Working with **React, Next.js, Node.js and Express.js**
+* 🗄️ Working with **MongoDB and SQL**
+* 🧠 Practicing **DSA, DBMS, SQL and OOPs**
+* 🤖 Exploring **LLMs, Gemini API and AI integration**
+* 🔧 Currently learning **TypeScript, PostgreSQL, Docker and GSAP**
+* 🚀 Interested in building practical, scalable web applications
 
 ---
 
@@ -40,7 +41,7 @@
 #### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
 </p>
 
 #### Frontend
@@ -52,73 +53,49 @@
 #### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-#### Tools & Infrastructure
+#### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 </p>
 
-#### AI / GenAI
+#### Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=ts,postgres,docker" />
 </p>
 
-<p>
+<p align="center">
   <code>LLMs</code>
   <code>Gemini API</code>
   <code>LangChain</code>
-  <code>RAG</code>
-  <code>AI Agents</code>
+  <code>GSAP</code>
 </p>
 
 ---
 
-### 🚀 Featured Project
-
-<a href="https://karmsetu.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-pandey1&repo=Karmsetu&theme=github_dark&hide_border=true" />
-</a>
-
-### Karmsetu
-
-A freelancing platform designed around the Indian freelance ecosystem.
-
-**What I worked on:**
-
-* Full-stack architecture using **Next.js, React, Node.js & MongoDB**
-* Role-based authentication for **clients and freelancers**
-* Freelancer discovery and project/gig management
-* Guilds and communities for freelancers
-* Real-time communication using **Socket.IO**
-* Geolocation-based freelancer discovery using **Leaflet**
-* Milestone-based project payments
-* AI-powered features for project creation and freelancer applications
-* Personalized recommendations and market insights
-
-🔗 **Live:** [karmsetu.vercel.app](https://karmsetu.vercel.app/)
-
----
-
-### 🧠 Currently Learning
+### 📚 What I'm Working On
 
 ```text
-TypeScript
-    ↓
-Backend & Databases
-Redis · PostgreSQL
-    ↓
-Infrastructure
-Docker · Kubernetes · CI/CD
-    ↓
-Distributed Systems
-Kafka
-    ↓
-Generative AI
-LLMs · Gemini · LangChain · AI Agents
+DSA
+├── Problem Solving
+├── Algorithms
+└── Interview Patterns
+
+Development
+├── Full Stack JavaScript
+├── TypeScript
+├── Backend Development
+└── Databases
+
+AI
+├── LLMs
+├── Gemini API
+├── LangChain
+└── AI-powered Applications
 ```
 
 ---
@@ -150,5 +127,5 @@ LLMs · Gemini · LangChain · AI Agents
 ---
 
 <p align="center">
-  <i>Building. Learning. Shipping.</i>
+  <i>Build. Learn. Improve.</i>
 </p>
